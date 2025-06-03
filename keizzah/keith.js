@@ -2,7 +2,7 @@
 var tabCmds = [];
 let cm = [];
 
-function keith(obj, fonctions) {
+function fayez(obj, fonctions) {
     let infoComs = obj;
 
     if (!obj.categorie) {
