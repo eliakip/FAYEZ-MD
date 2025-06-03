@@ -25,7 +25,7 @@
     
     "ANTICALL_MSG": {
       "description": "Type your anticall message to always send when calls are declined. You can leave it blank",
-      "value": "This is Keith personal assistant kindly leave a message",
+      "value": "This is fayez personal assistant kindly leave a message",
       "required": false
     },
     "BOT_NAME": {
