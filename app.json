@@ -1,5 +1,5 @@
 {
-  "name": "ALPHA-MD",
+  "name": "FAYEZ-MD",
   "description": "Alpha is a multidevice WhatsApp bot built to make your WhatsApp enjoyable.",
   "keywords": [
     "bot",
@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://telegra.ph/file/b148f6ed21fa02ac5325b.jpg",
-  "repository": "https://github.com/Keithkeizzah/ALPHA-MD",
+  "repository": "https://github.com/eliakip/FAYEZ-MD",
   "success_url": "/",
   "stack": "container",
   "env": {
